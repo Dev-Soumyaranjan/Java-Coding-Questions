@@ -26,9 +26,9 @@ It all started with a thought to help beginners who are just starting java progr
 
   🗒️[Note](https://drive.google.com/file/d/1AybXaiub6dQQfOOOtIKW4B83B2N6taBA/view?usp=sharing)
   
-  ▶[Youtube Channel](https://drive.google.com/file/d/1AybXaiub6dQQfOOOtIKW4B83B2N6taBA/view?usp=sharing)
+  ▶[Youtube Channel](https://www.youtube.com/watch?v=eTXd89t8ngI&list=PLd3UqWTnYXOmx_J1774ukG_rvrpyWczm0)
   
-  🌐[Website](https://drive.google.com/file/d/1AybXaiub6dQQfOOOtIKW4B83B2N6taBA/view?usp=sharing)
+  🌐[Website](https://www.javatpoint.com/java-tutorial)
 
   
 2. Learn Git to make contribution to this repo
