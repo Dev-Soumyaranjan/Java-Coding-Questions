@@ -1,4 +1,4 @@
-<h1 align="center"><img alt="Coding" width="40" src="https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/blob/main/images/READme-.gif"> JAVA❤️CODING🧑‍💻QUESTIONS🙋‍♂️ AND ANSWERS <img  alt="Coding" width="40" src="https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/blob/main/images/READme-.gif"></h1>
+<h1 align="center"> JAVA❤️CODING🧑‍💻QUESTIONS🙋‍♂️ AND ANSWERS </h1>
 
 [![MasterHead](https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/blob/main/images/README-Banner.png)](https://rishavchanda.io)
 <h3 align="center">🚀A better place for beginner to get started with java programming questions🚀</h3>
