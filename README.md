@@ -57,7 +57,7 @@ It all started with a thought to help beginners who are just starting java progr
   - You will find every coding question's answer with proper explanation.
   - Start with very basic level questions and gradually increase the difficulty level.
   - If you find any program wrong or unexplained or needs some improvement then create issue for it.
-  - Feel free to share and discuss any coding questios which is coming to your mind in discussion page.
+  - Feel free to share and discuss any coding questions which is coming to your mind in discussion page.
 
 
 
@@ -77,7 +77,7 @@ It all started with a thought to help beginners who are just starting java progr
 - Adding comment in code is mandatory.Otherwise  program will not be acceptable.
 - Comment should be crisp and clear which can make one able to understand the logic of the program.
 
-  See the below exmaple which is justifying above two lines:
+  See the below example which is justifying above two lines:
   <img src="https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/blob/main/images/code.png">
 
 ## 📌 Pushing the changes
@@ -95,7 +95,7 @@ Then create pullrequest
 Recommendation:
 
 
-Create separate branch for each program to make pull request. And delete the branch after the  merging of correspondense code with main branch of this repo.
+Create separate branch for each program to make pull request. And delete the branch after the  merging of correspondence code with main branch of this repo.
 Remember that you should not push code directly into main branch.
 
 Here I have made two branches
