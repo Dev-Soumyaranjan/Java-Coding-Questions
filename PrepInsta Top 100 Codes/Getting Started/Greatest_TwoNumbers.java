@@ -22,7 +22,8 @@ public class Greatest_TwoNumbers {
 
     // Method to check greater between two numbers using ternary operator
     static void checkGreaterUsingTernary(int FirstNumber, int SecondNumber) {
-        int max = Math.max(FirstNumber, SecondNumber);
+        //Using ternary operator
+        int max = (FirstNumber > SecondNumber) ? FirstNumber : SecondNumber;
         /*
          * FirstNumber will be store into max if condition will be true
          * And SecondNumber will be store into max if condition will be false
