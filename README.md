@@ -1,9 +1,9 @@
 <h1 align="center"> JAVA❤️CODING🧑‍💻QUESTIONS🙋‍♂️ AND ANSWERS </h1>
 
 [![MasterHead](https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/blob/main/images/README-Banner.png)](https://rishavchanda.io)
-<h3 align="center">🚀A better place for beginner to get started with java programming questions🚀</h3>
+<h3 align="center">🚀Let's Code Together🚀</h3>
 
-<p align="center"><img alt="GitHub top language" src="https://img.shields.io/github/languages/top/dev-soumyaranjan/Java-Coding-Questions?style=flat-square"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/dev-soumyaranjan/Java-Coding-Questions?style=flat-square"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors-anon/dev-soumyaranjan/Java-Coding-Questions?style=flat-square"><img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/dev-soumyaranjan/Java-Coding-Questions?label=Commits&style=social"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dev-soumyaranjan/Java-Coding-Questions?style=flat-square"><img alt="GitHub repo directory count" src="https://img.shields.io/github/directory-file-count/dev-soumyaranjan/Java-Coding-Questions?style=flat-square"><img alt="Discord" src="https://img.shields.io/discord/998687779129131159?style=flat-square"><img alt="GitHub issues" src="https://img.shields.io/github/issues/dev-soumyaranjan/Java-Coding-Questions"></p>
+<p align="center"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/dev-soumyaranjan/Java-Coding-Questions?style=flat-square"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors-anon/dev-soumyaranjan/Java-Coding-Questions?style=flat-square"><img alt="GitHub issues" src="https://img.shields.io/github/issues/dev-soumyaranjan/Java-Coding-Questions"><img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/dev-soumyaranjan/Java-Coding-Questions?label=Commits&style=social"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dev-soumyaranjan/Java-Coding-Questions?style=flat-square"><img alt="GitHub repo directory count" src="https://img.shields.io/github/directory-file-count/dev-soumyaranjan/Java-Coding-Questions?style=flat-square"><img alt="Discord" src="https://img.shields.io/discord/998687779129131159?style=flat-square"></p>
 
 
 ## 🎯Moto
@@ -57,7 +57,7 @@ It all started with a thought to help beginners who are just starting java progr
   - You will find every coding question's answer with proper explanation.
   - Start with very basic level questions and gradually increase the difficulty level.
   - If you find any program wrong or unexplained or needs some improvement then create issue for it.
-  - Feel free to share and discuss any coding questions which is coming to your mind in discussion page.
+  - Feel free to share and discuss any coding questions which is coming to your mind in [discussion page](https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/discussions).
 
 
 
@@ -102,15 +102,16 @@ Here I have made two branches
 
 <img src="https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/blob/main/images/Branch.png">
 
-## Support
+## 💌Support
 
 For support, dev.soumya369@gmail.com or join the [Discord Channel](https://discord.com/channels/998687779129131159/998688141751898192).
 
-## Authors
+## 👥Authors
 
 - [@Soumyaranjan](https://github.com/Dev-Soumyaranjan)
 - [@Akash](https://github.com/AkashPattnayak)
 <hr>
-❤️ If you like this initiative then don't forget to give a star to this repo which will motivate us to work more on this repo.Happy Coding🧑‍💻 !!
+⭐ If you like this initiative then don't forget to give a star to this repo which will motivate us to work more on this repo.
 
 <img src="https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/blob/main/images/Github-Gif-1.gif">
+<h5 align="center">❤️Happy Coding🧑‍💻 !!</h5>
