@@ -3,12 +3,13 @@
 [![MasterHead](https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/blob/main/images/README-Banner.png)](https://rishavchanda.io)
 <h3 align="center">🚀Let's Code Together🚀</h3>
 
-<p align="center"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors-anon/dev-soumyaranjan/Java-Coding-Questions?style=flat-square"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/dev-soumyaranjan/Java-Coding-Questions"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dev-soumyaranjan/Java-Coding-Questions?style=flat-square"><img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/dev-soumyaranjan/Java-Coding-Questions?label=Commits&style=social"><img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/dev-soumyaranjan/Java-Coding-Questions"><img alt="GitHub repo directory count" src="https://img.shields.io/github/directory-file-count/dev-soumyaranjan/Java-Coding-Questions?style=flat-square"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/dev-soumyaranjan/Java-Coding-Questions"></p>
+<p align="center"><img alt="GitHub" src="https://img.shields.io/github/license/dev-soumyaranjan/Java-Coding-Questions"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors-anon/dev-soumyaranjan/Java-Coding-Questions?style=flat-square"><img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/dev-soumyaranjan/Java-Coding-Questions"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dev-soumyaranjan/Java-Coding-Questions?style=flat-square"><img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/dev-soumyaranjan/Java-Coding-Questions?label=Commits&style=social"><img alt="GitHub closed pull requests" src="https://img.shields.io/github/issues-pr-closed/dev-soumyaranjan/Java-Coding-Questions"><img alt="GitHub repo directory count" src="https://img.shields.io/github/directory-file-count/dev-soumyaranjan/Java-Coding-Questions?style=flat-square"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/dev-soumyaranjan/Java-Coding-Questions">
+<img alt="Lines of code" src="https://img.shields.io/tokei/lines/github/dev-soumyaranjan/Java-Coding-Questions"></p>
 
 
 ## 🎯Moto
 
-It all started with a thought to help beginners who are just starting java programming language.In this repo you will find various types of coding questions which will help you to build your coding foundation in java.
+It all started with a thought to help beginners who are just starting java programming language.In this repo you will find various types of beginner level coding questions which will help you to build your coding foundation in java.
 
 ## ✨Features
 
