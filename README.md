@@ -110,12 +110,8 @@ Here I have made two branches
 ## 💌Support
 
 For support, dev.soumya369@gmail.com or join the [Discord Channel](https://discord.com/channels/998687779129131159/998688141751898192).
-
-## 👥Authors
-
-- [@Soumyaranjan](https://github.com/Dev-Soumyaranjan)
-- [@Akash](https://github.com/AkashPattnayak)
 <hr>
+
 ⭐ If you like this initiative then don't forget to give a star to this repo which will motivate us to work more on this repo.
 
 <img src="https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/blob/main/images/Github-Gif-1.gif">
