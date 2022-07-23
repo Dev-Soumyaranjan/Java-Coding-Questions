@@ -65,12 +65,17 @@ It all started with a thought to help beginners who are just starting java progr
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/blob/main/images/dcsad.gif">
 
-1. Fork this repo
+- Fork this repo
+
 <img src="https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/blob/main/images/Fork.png">
-2. Clone the forked repo from your github account to your local machine
+
+- Clone the forked repo from your github account to your local machine
+
 <img src="https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/blob/main/images/Clone.png">
 
-   After cloning & setting up the local project you can push the changes to your github fork and make a pull request.
+- After cloning & setting up the local project you can push the changes to your github fork and make a pull request.
+
+- You can also checkout our [CONTRIBUTING.md](https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/blob/main/CONTRIBUTING.md) to know how to contribute.
     
 
 ## 🎗️Keep in mind before contributing
