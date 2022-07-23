@@ -68,12 +68,17 @@ It all started with a thought to help beginners who are just starting java progr
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/blob/main/images/dcsad.gif">
 
-1. Fork this repo
+- Fork this repo
+
 <img src="https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/blob/main/images/Fork.png">
-2. Clone the forked repo from your github account to your local machine
+
+- Clone the forked repo from your github account to your local machine
+
 <img src="https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/blob/main/images/Clone.png">
 
-   After cloning & setting up the local project you can push the changes to your github fork and make a pull request.
+- After cloning & setting up the local project you can push the changes to your github fork and make a pull request.
+
+- You can also checkout our [CONTRIBUTING.md](https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/blob/main/CONTRIBUTING.md) to know how to contribute.
     
 
 ## 🎗️Keep in mind before contributing
@@ -108,12 +113,8 @@ Here I have made two branches
 ## 💌Support
 
 For support, dev.soumya369@gmail.com or join the [Discord Channel](https://discord.com/channels/998687779129131159/998688141751898192).
-
-## 👥Authors
-
-- [@Soumyaranjan](https://github.com/Dev-Soumyaranjan)
-- [@Akash](https://github.com/AkashPattnayak)
 <hr>
+
 ⭐ If you like this initiative then don't forget to give a star to this repo which will motivate us to work more on this repo.
 
 <img src="https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/blob/main/images/Github-Gif-1.gif">
@@ -126,10 +127,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/Sudarsan-Pradhan"><img src="https://avatars.githubusercontent.com/u/58820003?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sudarsan Pradhan</b></sub></a><br /><a href="https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/commits?author=Sudarsan-Pradhan" title="Code">💻</a></td>
-  </tr>
 </table>
 
 <!-- markdownlint-restore -->
