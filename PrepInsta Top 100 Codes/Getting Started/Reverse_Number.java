@@ -1,5 +1,17 @@
 import java.util.Scanner;
+/*
+Write a program in java to find the reverse of a number 
+Given an integer input as number, the objective is Find the Reverse of the Number.
+To do so we usually break down the number into its individual digits and then rearrange them in reverse order.
 
+Sample Input-1: 369
+Sample Output-1: 963
+
+Sample Input-2: -45305
+Sample Output-2: -50354
+
+
+*/
 public class Reverse_Number {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
