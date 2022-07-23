@@ -22,8 +22,6 @@ jobs:
       fail-fast: false
       matrix:
         language: [ 'java' ]
-      - run: |
-       mvn clean install -DskipTests      
 
     steps:
     - name: Checkout repository
