@@ -127,10 +127,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/sarthakbal0987"><img src="https://avatars.githubusercontent.com/u/86051613?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sarthak kumar Bal</b></sub></a><br /><a href="https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/commits?author=sarthakbal0987" title="Code">💻</a></td>
-  </tr>
 </table>
 
 <!-- markdownlint-restore -->
