@@ -1,6 +1,6 @@
 <h1 align="center"> JAVA❤️CODING🧑‍💻QUESTIONS🙋‍♂️ AND ANSWERS </h1>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
@@ -132,6 +132,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/sarthakbal0987"><img src="https://avatars.githubusercontent.com/u/86051613?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sarthak kumar Bal</b></sub></a><br /><a href="https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/commits?author=sarthakbal0987" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/soumyaranjan-rout-b16145185/"><img src="https://avatars.githubusercontent.com/u/96842698?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Soumyaranjan Rout</b></sub></a><br /><a href="#infra-Dev-Soumyaranjan" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/commits?author=Dev-Soumyaranjan" title="Code">💻</a></td>
   </tr>
 </table>
 
