@@ -13,6 +13,16 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "Dev-Soumyaranjan",
+      "name": "Soumyaranjan Rout",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96842698?v=4",
+      "profile": "https://www.linkedin.com/in/soumyaranjan-rout-b16145185/",
+      "contributions": [
+        "infra",
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
