@@ -22,7 +22,10 @@ public class Check_Prime_Number {
     Scanner scn = new Scanner(System.in);
     System.out.println("Enter a number:");
     int number = scn.nextInt(); // Taking number from the user
-    // Checking number entered number is greater than 1 or not
+    /* 
+    * Checking the entered number is greater than 1 or not
+    * because by the usual definition of prime for integers, negative integers can not be prime
+    */
     if (number > 1) {
       boolean result = checkPrime(number); // Store the return value of checkPrime() method
       if (result)
