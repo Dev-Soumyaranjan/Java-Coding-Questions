@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 /*
 * We are given an integer input as the number, the objective is to check whether or not the given number is a palindrome.
-* To do so, we’ll first reverse the string input using loops and check if it matches the original number.
+* To do so, we’ll first reverse the Number input using loops and check if it matches the original number.
 * If it matched then the given input number is a palindrome number
 *
 * Example-1
@@ -24,8 +24,7 @@ public class Check_Palindrome {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter a number:");
         int number = input.nextInt();// Taking input from the user
-        // If isPalindrome() method returns true then the number is palindrome and if it
-        // returns false then it is not
+        //If isPalindrome() method returns true then the number is palindrome and if it returns false then it is not
         if (isPalindrome(number))
             System.out.println("This is a palindrome number");
         else
@@ -49,8 +48,7 @@ public class Check_Palindrome {
          * we can compare temp with reverse number
          */
         int temp = number;
-        // Initializing rev variable with zero and after while loop the reverse of the
-        // number will store in rev
+        // Initializing rev variable with zero and after while loop the reverse of the number will store in rev
         int rev = 0;
         //Logic for reverse a number
         while (number != 0) {
