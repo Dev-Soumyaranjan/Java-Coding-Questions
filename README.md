@@ -1,10 +1,4 @@
 <h1 align="center"> JAVA❤️CODING🧑‍💻QUESTIONS🙋‍♂️ AND ANSWERS </h1>
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![MasterHead](https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/blob/main/images/README-Banner.png)](https://rishavchanda.io)
 <h3 align="center">🚀Let's Code Together🚀</h3>
