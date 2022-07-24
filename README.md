@@ -107,16 +107,6 @@ Here I have made two branches
 
 <img src="https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/blob/main/images/Branch.png">
 
-## 💌Support
-
-For support, dev.soumya369@gmail.com or join the [Discord Channel](https://discord.com/channels/998687779129131159/998688141751898192).
-<hr>
-
-⭐ If you like this initiative then don't forget to give a star to this repo which will motivate us to work more on this repo.
-
-<img src="https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/blob/main/images/Github-Gif-1.gif">
-<h5 align="center">❤️Happy Coding🧑‍💻 !!</h5>
-
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -147,3 +137,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+<img src="https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/blob/main/images/Github-Gif-1.gif">
+<h5 align="center">✨If you like this initiative then don't forget to give a star⭐ to this repo which will motivate us to work more on this repo.✨</h5>
+<h5 align="center">❤️Happy Coding🧑‍💻 !!</h5>
