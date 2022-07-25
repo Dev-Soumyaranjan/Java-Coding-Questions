@@ -6,6 +6,33 @@
   "commit": false,
   "contributors": [
     {
+      "login": "sarthakbal0987",
+      "name": "Sarthak kumar Bal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86051613?v=4",
+      "profile": "https://github.com/sarthakbal0987",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Dev-Soumyaranjan",
+      "name": "Soumyaranjan Rout",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96842698?v=4",
+      "profile": "https://www.linkedin.com/in/soumyaranjan-rout-b16145185/",
+      "contributions": [
+        "infra",
+        "code",
+        "review",
+        "maintenance",
+        "question",
+        "ideas"
+      ]
+    },
+    {
+      "login": "Sudarsan-Pradhan",
+      "name": "Sudarsan Pradhan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58820003?v=4",
+      "profile": "https://github.com/Sudarsan-Pradhan",
       "contributions": [
         "code"
       ]

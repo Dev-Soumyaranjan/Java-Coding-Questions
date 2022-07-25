@@ -117,6 +117,8 @@ or making changes in existing file)
 
 🚀In short here,you are requsting to merge the changes which you have made in your branch to the main branch of this repository.🚀
 
+#### You can also watch [this](https://www.youtube.com/watch?v=apGV9Kg7ics&t=2840s) video to understand all the above steps as well as you can also get overall idea about git and Github.So I highly recommend you to go through this video and try to understand the basic concepts of git.
+
 ## Points to remember
 
 i. Each time follow the same step to make a pull request(Step [4](###4.Make-a-new-branch) to step [8](###8.Make-a-pull-request))
