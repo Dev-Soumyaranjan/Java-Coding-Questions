@@ -1,7 +1,4 @@
 <h1 align="center"> JAVA❤️CODING🧑‍💻QUESTIONS🙋‍♂️ AND ANSWERS </h1>
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![MasterHead](https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/blob/main/images/README-Banner.png)](https://rishavchanda.io)
 <h3 align="center">🚀Let's Code Together🚀</h3>
@@ -110,19 +107,24 @@ Here I have made two branches
 
 <img src="https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/blob/main/images/Branch.png">
 
-## 💌Support
-
-For support, dev.soumya369@gmail.com or join the [Discord Channel](https://discord.com/channels/998687779129131159/998688141751898192).
-<hr>
-
-⭐ If you like this initiative then don't forget to give a star to this repo which will motivate us to work more on this repo.
-
-<img src="https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/blob/main/images/Github-Gif-1.gif">
-<h5 align="center">❤️Happy Coding🧑‍💻 !!</h5>
-
 ## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+Thanks goes to these wonderful people:
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/sarthakbal0987"><img src="https://avatars.githubusercontent.com/u/86051613?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sarthak kumar Bal</b></sub></a><br /><a href="https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/commits?author=sarthakbal0987" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/soumyaranjan-rout-b16145185/"><img src="https://avatars.githubusercontent.com/u/96842698?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Soumyaranjan Rout</b></sub></a><br /><a href="#infra-Dev-Soumyaranjan" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/commits?author=Dev-Soumyaranjan" title="Code">💻</a> <a href="https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/pulls?q=is%3Apr+reviewed-by%3ADev-Soumyaranjan" title="Reviewed Pull Requests">👀</a> <a href="#maintenance-Dev-Soumyaranjan" title="Maintenance">🚧</a> <a href="#question-Dev-Soumyaranjan" title="Answering Questions">💬</a> <a href="#ideas-Dev-Soumyaranjan" title="Ideas, Planning, & Feedback">🤔</a></td>
+    <td align="center"><a href="https://github.com/Sudarsan-Pradhan"><img src="https://avatars.githubusercontent.com/u/58820003?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sudarsan Pradhan</b></sub></a><br /><a href="https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/commits?author=Sudarsan-Pradhan" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -135,3 +137,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+<img src="https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/blob/main/images/Github-Gif-1.gif">
+<h5 align="center">✨If you like this initiative then don't forget to give a star⭐ to this repo which will motivate us to work more on this repo.✨</h5>
+<h5 align="center">❤️Happy Coding🧑‍💻 !!</h5>
