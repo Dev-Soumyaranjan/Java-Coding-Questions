@@ -21,7 +21,7 @@ public class Armstrong_Number {
         while(temp>0){
             // we have to get the remainder of the given number after dividing it by 10.
             rem=temp%10;
-            //now we will use the power function to get the value of the given number raised to the power of the count of number of digits in the given number and add it to the sum.
+            //now we will use the power function to get the value of the given number raised to the power of the count of number of digits in the given number and add it to the sum. 
             sum=sum+(int)(Math.pow(rem,count));
             temp=temp/10;
         }
