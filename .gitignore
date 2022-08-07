@@ -1,4 +1,4 @@
 *.iml
 *idea
-*.github
-*.vscode
+*.github/
+*.vscode/
