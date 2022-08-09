@@ -23,27 +23,35 @@ public class Sum_Of_Numbers_GivenRange {
   public static void main(String[] args) {
     Scanner input = new Scanner(System.in);
     System.out.println("Enter the starting number:");
-    int n = input.nextInt(); // Taking starting number from the user.
+    int startingNumber = input.nextInt(); // Taking starting number from the user.
     System.out.println("Enter the ending number:");
-    int N = input.nextInt(); // Taking ending number from the user.
-    /* Calling the sumOfNumbers() method and passed the first number and second number as parameter*/
-    sumOfNumbers(n, N); 
+    int endingNumber = input.nextInt(); // Taking ending number from the user.
+    //Checking if the starting number is greater than the ending number.If it is, then the program will exit.
+    if(startingNumber > endingNumber){
+        System.out.println("Ending number should be greater than starting number.🙂");
+     }else if(startingNumber == 0 && endingNumber == 0){
+        System.out.println("Starting number and ending number should be greater than 0.");
+    }else{
+       /* Calling the sumOfNumbers() method and passed the first number and second number as parameter*/
+       sumOfNumbers(startingNumber, endingNumber);
+    }
+
     input.close();
 }
 
-static void sumOfNumbers(int number, int number1) {
+static void sumOfNumbers(int firstNumber, int lastNumber) {
     int sum = 0; // Initialize sum with zero.
-    // The value of i ranges from first number to second number.
-    for (int i = number; i <= number1; i++) {
+    // The value of i ranges from firsNumber to lastNumber.
+    for (int i = firstNumber; i <= lastNumber; i++) {
         sum = sum + i; // In each iteration,the sum value will be updated.
     }
     System.out.print("Sum of ");
-    // To print the all number between first number and second number.
-    for (int i = number; i <= number; i++) {
-    /* It will check which is last number.Here number1 is last number, so it will print '=' instead of '+'symbol.*/
-        if (i == number1) { 
+    //Print the all numbers between firstNumber and lastNumber including firstNumber and lastNumber itself.
+    for (int i = firstNumber; i <= lastNumber; i++) {
+        // It will check which is last number.Here lastNumber is last number, so it will print '=' instead of '+'symbol.
+        if (i == lastNumber) {
             System.out.print(i + " = "); // After last number '=' symbol will be print.
-            break; // after last number,the loop will be break and control will jump out from the loop.
+            break; //After printing the last number,the loop will be break and control will jump out from the loop.
         }
         System.out.print(i + " + "); // Printing '+' symbol in between two numbers.
     }
