@@ -11,7 +11,7 @@ import java.util.Scanner;
  *    Enter the starting number: 1
  *    Enter the ending number: 10
  * sample Output:
- *    Sum of the numbers between 1 and 10 is: 55
+ *    Sum of 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10 = 55
  * Explanation:
  * 
  * The sum of the numbers between 1 and 10 is equal to the sum of the numbers 1, 2, 3, 4, 5, 6, 7, 8, 9 and 10.
