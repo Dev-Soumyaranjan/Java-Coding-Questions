@@ -48,7 +48,7 @@ public class Check_Prime_Number {
     /*
      * Basically here i are those numbers starting from 2 to (original number/2)-1,
      * for example:
-     *     If we enter 10 then i will be 2 to 9
+     *     If we enter 10 then i will be 2 to 4
      * And in each iteration we will check which numbers(i) are completely dividing the original numbers.
      * We are doing so because we need factors.
      * 
