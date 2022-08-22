@@ -31,8 +31,9 @@ Follow the below step by step process for contributing this repo.
 
 ### 1.Fork this repo
 
-Go to the [main page](https://github.com/Dev-Soumyaranjan/Java-Coding-Questions) of this repo and there you will find a fork button at its right upper corner. Click
-on that fork button then you will navigate to your github account.
+Go to the [main page](https://github.com/Dev-Soumyaranjan/Java-Coding-Questions) of this repo and there you will find a fork button at its upper right corner. Click
+on that fork button then you will navigate to a new page where you will find the options like below image👇.Just click on "Create fork".
+<img src="https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/blob/main/images/fork.png" alt="Fork the repo image">
 
 ### 2.Make clone of the repo
 
@@ -44,6 +45,10 @@ copy that link.Then open your terminal and navigate to the folder where you want
  git clone Your_CopiedLInk
  
 ```
+See the below image👇
+
+<img src="https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/blob/main/images/cloning%20repo.png" alt="Clone the repo">
+
 
 ### 3.Open this folder in your favourite code editor
 
@@ -53,7 +58,7 @@ If you use VS Code after applying all the above steps when you open your folder 
 
 ## 4.Make a new branch
 
-As you can see in the above picture of vs code the default branch selected for the repo is "main"(At left down corner).
+As you can see in the above picture of vs code the default branch selected for the repo is "main"(At button left corner).
 Use the following command to create a new branch
 
 ```bash
@@ -115,7 +120,7 @@ Here at the place of 1 your name will appear and at place 2 your branch name wil
 Basically place 1 refers to the repository in your github account which you have forked and place 2 refers to the branch in which you made changes(Creating new file
 or making changes in existing file)
 
-🚀In short here,you are requsting to merge the changes which you have made in your branch to the main branch of this repository.🚀
+🚀In short, Here you are requesting to merge the changes which you have made in your branch to the main branch of the base repository.🚀
 
 #### You can also watch [this](https://www.youtube.com/watch?v=apGV9Kg7ics&t=2840s) video to understand all the above steps as well as you can also get overall idea about git and Github.So I highly recommend you to go through this video and try to understand the basic concepts of git.
 
