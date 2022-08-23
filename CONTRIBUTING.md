@@ -33,7 +33,7 @@ Follow the below step by step process for contributing this repo.
 
 Go to the [main page](https://github.com/Dev-Soumyaranjan/Java-Coding-Questions) of this repo and there you will find a fork button at its upper right corner. Click
 on that fork button then you will navigate to a new page where you will find the options like below image👇.Just click on "Create fork".
-<img src="https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/blob/main/images/fork.png" alt="Fork the repo image">
+<img src="https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/blob/main/images/Fork-page.png" alt="Fork the repo image">
 
 ### 2.Make clone of the repo
 
