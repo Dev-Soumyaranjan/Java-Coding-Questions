@@ -44,11 +44,8 @@ public class Check_Armstrong_Number {
         //Create a variable power in which we will store the total of digits
         int power = 0;
         //Finding the total digits of the number
-        while (temp > 0) {
-            //create a variable remainder and initialize it to temp % 10
-            // remainder is nothing but a digit of the number
-            int remainder = temp % 10;
-            //in each iteration one by one digit will be extracted and for the each digit power value will increase by 1
+        while (temp % 10 > 0) {
+            //In each iteration temp%10 will extract each digit of the number and the value of the power will increase by 1
             power++;
             //it will shorten the number by 1 in each iteration
             temp = temp / 10;
