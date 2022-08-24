@@ -1,33 +1,33 @@
-# Welcome <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+[comment]: <> (# Welcome <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">)
 
-A big welcome and thank you for considering contributing to this repo! It’s people like you that make it a reality for users in our community.
+[comment]: <> (A big welcome and thank you for considering contributing to this repo! It’s people like you that make it a reality for users in our community.
 I'm really glad you're reading this, because we need passionate java programmer to help this project come to fruition.We want to make contributing to 
-this project as easy and transparent as possible, whether it's:
+this project as easy and transparent as possible, whether it's:)
 
-- Adding a new program
-- Discussing the current state of the code
-- Submitting a fix
-- Proposing new code idea
-- Becoming a maintainer
-
-
-## Quicklinks
-
-* [How to contribute](#How-to-contribute)
-    * [Forking Repo](#1.Fork-this-repo)
-    * [Clone Repo](#2.Make-clone-of-the-repo)
-    * [Open this folder in your favourite code editor](#3.Open-this-folder-in-your-favourite-code-editor)
-    * [Make a new branch](#4.Make-a-new-branch)
-    * [Make a new program or make changes of existing code](###5.Make-a-new-program-or-make-changes-of-existing-code)
-    * [Commit the code](#6.Commit-the-code)
-    * [Push the changes](#7.Push-the-changes)
-    * [Make a pull request](#8.Make-a-pull-request)
-* [Points to remember](#Points-to-remember)
-* [Getting Help](#getting-help)
+[comment]: <> (- Adding a new program)
+[comment]: <> (- Discussing the current state of the code)
+[comment]: <> (- Submitting a fix)
+[comment]: <> (- Proposing new code idea)
+[comment]: <> (- Becoming a maintainer)
 
 # How to contribute
 
 Follow the below step by step process for contributing this repo.
+
+## Quicklinks
+
+* [Forking Repo](#1fork-this-repo)
+* [Clone Repo](#2make-clone-of-the-repo)
+* [Open this folder in your favourite code editor](#3open-this-folder-in-your-favourite-code-editor)
+* [Make a new branch](#4make-a-new-branch)
+* [Make a new program or make changes of existing code](#5make-a-new-program-or-make-changes-to-the-existing-code)
+* [Commit the code](#6commit-the-code)
+* [Push the changes](#7push-the-changes)
+* [Make a pull request](#8make-a-pull-request)
+* [Points to remember](#points-to-remember)
+* [Getting Help](#getting-help)
+
+
 
 ### 1.Fork this repo
 
