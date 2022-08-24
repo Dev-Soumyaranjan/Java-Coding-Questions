@@ -1,5 +1,33 @@
 package Company_Coding_Round_Questions;
-
+/*
+* Problem statement:
+* -------------------
+* You are provided THREE four-digit numbers and a string as input.
+* Let us call the THREE input numbers(input1,input2 and input3) as alpha,beta
+* and gamma respectively.
+* You are expected to find a PIN using the below calculation -
+*   ((Largest digit of alpha x 2nd Largest digit of alpha) + (Largest digit of beta x 2nd
+* Largest digit of beta) - (Largest digit of gamma x 2nd Largest digit of gamma)) x
+* (Number of vowels in the string)
+*
+* Note: Below example illustrate how to determine the "Largest digit","2nd Largest
+* digit", "2nd Smallest digit" and "Smallest digit" In a four-digit number.
+*
+* If the number is 2951
+*   Largest digit = 9
+*   2nd Largest digit = 5
+*   2nd Smallest digit = 2
+*   Smallest digit = 1
+*
+* Example:
+* --------
+* If input1 = 4679 input2=5028 input3=9119 input4="WipRo"
+* PIN = ((Largest digit of alpha x 2nd Largest digit of alpha) + (Largest digit of beta x 2nd
+ * Largest digit of beta) - (Largest gamma of alpha x 2nd Largest digit of gamma)) x
+ * (Number of vowels in the string) = ((9x7) + (8x5) - (9x9))x(2) = (63 + 40 - 81) x (2) =
+ * 22x2 = 44
+*
+* */
 import java.util.*;
 public class Find_PIN {
     public static void main(String[] args) {
