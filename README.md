@@ -75,7 +75,7 @@ It all started with a thought to help beginners who are just starting java progr
 
 - After cloning & setting up the local project you can push the changes to your github fork and make a pull request.
 
-- You can also checkout our [CONTRIBUTING.md](https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/blob/main/CONTRIBUTING.md) to know how to contribute.
+- You can also checkout our [How-to-Contribute.md](https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/blob/main/How-to-Contribute.md) to know how to contribute.
     
 
 ## 🎗️Keep in mind before contributing
