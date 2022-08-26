@@ -126,7 +126,7 @@ or making changes in existing file)
 
 ## Points to remember
 
-i. Each time follow the same step to make a pull request(Step [4](###4.Make-a-new-branch) to step [8](###8.Make-a-pull-request))
+i. Each time follow the same step to make a pull request(Step [4](#4make-a-new-branch) to step [8](#8make-a-pull-request))
 
 ii. Make a separate branch each time for each program.Because you can't create multiple pull request in one branch.If you want to know more about it then click [here](https://www.youtube.com/watch?v=apGV9Kg7ics?&t=2785)
 
@@ -134,4 +134,4 @@ ii. Make a separate branch each time for each program.Because you can't create m
 ## Getting Help
 
 If you want any kind of help then go to our [Discussion](https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/discussions) page and post your question there
-with full description.
+with full description.And we will try our level best to resolve your problem as soon as possible.
