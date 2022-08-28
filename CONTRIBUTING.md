@@ -60,10 +60,9 @@ Before creating enhancement suggestions, please check [this list](#before-submit
 one. When you are creating an enhancement suggestion, please [include as many details as possible](#how-do-i-submit-a-good-enhancement-suggestion). 
 
 ##### Fill the following template inorder to create a new issue
-  * Fill this for [wrong output]
-  * Fill this for [code enhancement]
-  * Fill this for [unexplained code which needs more explanation]
-  * Fill this for [other issue]
+  * Fill this for [wrong output](https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/issues/new?assignees=Dev-Soumyaranjan&labels=wrong+output&template=wrong-output.md&title=Wrong+output)
+  * Fill this for [update documentation](https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/issues/new?assignees=Dev-Soumyaranjan&labels=documentation&template=update-documentation.md&title=Update+documentation)
+  * Fill this for [other issue](https://github.com/Dev-Soumyaranjan/Java-Coding-Questions/issues/new)
   
 #### How Do I Submit A (Good) Enhancement Suggestion?
 
